@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA , Web Development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/khushi-88360129a/](https://www.linkedin.com/in/khushi-88360129a/)
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/khushi-88360129a/
 
 - 💬 Ask me about **C++, DSA, HTML, CSS, Bootstrap**
 
